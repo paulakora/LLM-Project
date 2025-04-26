@@ -1,2 +1,2 @@
 import streamlit as st
-st.secrects["API_KEY"]
+st.secrets["API_KEY"]
